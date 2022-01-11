@@ -9,7 +9,7 @@ phases:
   pre_build:
     commands:
       - echo Entring app directory
-      - yarn install
+      - npm install
   build:
     commands:
       - echo Build started on `date`
