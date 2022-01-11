@@ -9,7 +9,6 @@ phases:
   pre_build:
     commands:
       - echo Entring app directory
-      - cd my-app
       - yarn install
   build:
     commands:
