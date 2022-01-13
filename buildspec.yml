@@ -21,4 +21,4 @@ artifacts:
   files:
     - 'build/*'
     - 'appspec.yml'
-  base-directory: build
+  name: my-app-release
