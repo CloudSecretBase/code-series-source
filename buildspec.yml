@@ -19,6 +19,6 @@ phases:
 #      - aws s3 sync build/ s3://my-bucket-xiaomo --exclude '*.DS_Store' --acl public-read --cache-control public,max-age=604800
 artifacts:
   files:
-    - 'build/**'
+    - 'build/**/*'
     - 'appspec.yml'
   name: my-app-release
