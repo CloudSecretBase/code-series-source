@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello AWS V4
+          Hello AWS CodeDeploy
         </a>
       </header>
     </div>
