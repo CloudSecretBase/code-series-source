@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello AWS V3
+          Hello AWS V4
         </a>
       </header>
     </div>
